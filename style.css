@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar{
+    background-color: grey;
+    width: 20vw;
+    font-family: 'Fira Sans', sans-serif;
+    height: 100vh;
+}
+
+.sidebar li{
+ margin-left: 25px;
+}
+
+.sidebar nav li{
+ list-style: none;
+ font-size: 30px;
+ padding: 33px 0px;
+}
+
+.sidebar nav li a{
+text-decoration: none;
+color: black;
+}
+
+.main{
+    /* background-color: yellow; */
+    width: 80vw;
+}
+
+.container{
+    display: flex;
+} 
+
+.infocontainer{
+    /* background-color: rgb(255, 0, 149); */
+    height: 58vh;
+    width: 80vw;
+    margin: 144px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.devinfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.devpic img{
+    height: 58vh;
+}
+
+.hello{
+    font-size: 65px;
+}
+
+.name{
+font-size: 50px;
+font-family: 'Fira Sans', sans-serif;
+}
+
+.about{
+font-size: 30px;
+}
+
+.moreabout{
+    margin-top: 5px;
+    font-size: 22px;
+    font-family: 'Fira Sans', sans-serif;
+
+}
+
+.buttons{
+margin-top: 34px;
+}
+
+.buttons button{
+padding: 9px 14px;
+border-radius: 22px;
+color: grey;
+background-color: white;
+font-weight: bold;
+font-size: 21px;
+margin: 0 3px;
+cursor: pointer;
+}
+
+.buttons button:hover{
+background-color: grey;
+color: white;
+
+}
+
+.contact{
+    border: 1px solid black;
+    margin: auto;
+    width: 60vw;
+    height: 80vh;
+}
+.contact h1{
+text-align: center;
+}
