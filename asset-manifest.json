@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.946334c2.css",
-    "main.js": "/static/js/main.012b2018.js",
+    "main.css": "/static/css/main.c345b4b7.css",
+    "main.js": "/static/js/main.7d42d93a.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.jpg": "/static/media/avatar.cbaf4b762b9da290d44f.jpg",
     "static/media/ASHISH_GUPTA_RESUME.pdf": "/static/media/ASHISH_GUPTA_RESUME.bbfdf53490051c622b7e.pdf",
@@ -11,12 +11,12 @@
     "static/media/instagram.png": "/static/media/instagram.b822eb7be98fe35940f8.png",
     "static/media/github1.png": "/static/media/github1.c66e9bffe4100999ef5d.png",
     "index.html": "/index.html",
-    "main.946334c2.css.map": "/static/css/main.946334c2.css.map",
-    "main.012b2018.js.map": "/static/js/main.012b2018.js.map",
+    "main.c345b4b7.css.map": "/static/css/main.c345b4b7.css.map",
+    "main.7d42d93a.js.map": "/static/js/main.7d42d93a.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.946334c2.css",
-    "static/js/main.012b2018.js"
+    "static/css/main.c345b4b7.css",
+    "static/js/main.7d42d93a.js"
   ]
 }
